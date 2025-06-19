@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+Builds/
+Build/
+
+# JUCE
+Builds/**/Build/
+Builds/**/x64/
+Builds/**/Win32/
+Builds/**/Debug/
+Builds/**/Release/
+
+# Others
+*.log
+*.tmp
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+
+# Mac system files
+.DS_Store
+
+# Node modules (if any)
+node_modules/
+
+# Ignore gitignore file itself (optional)
+# .gitignore
