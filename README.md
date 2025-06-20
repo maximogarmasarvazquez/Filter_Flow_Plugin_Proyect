@@ -26,8 +26,7 @@ git clone https://github.com/maximogarmasarvazquez/Filter_Flow_Plugin_Proyect.gi
 
 
 ## 📚 Documentacion util
-- [JUCE Docs](https://docs.juce.com/)
-- [JUCE GitHub](https://github.com/juce-framework/JUCE)
+- [Documentacion del proyecto](https://docs.google.com/document/d/1EjXFpAUDpAWw3J2_LfyfRUM3T1KWU38gVQ9OD6Acj6A/edit?usp=sharing)
 
 ---
 
