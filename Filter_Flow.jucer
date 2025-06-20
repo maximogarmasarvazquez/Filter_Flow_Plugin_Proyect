@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="ZfP1hA" name="Filter_Flow" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" version="1.2"
+              companyEmail="Maxivaz55@mail.com" companyCopyright="MaxiDev"
+              companyName="MaxiDev" pluginManufacturerCode="MXGV" pluginManufacturer="  "
+              pluginCode="MX02">
   <MAINGROUP id="N3zDDD" name="Filter_Flow">
     <GROUP id="{BA74D78B-C565-0ECA-239C-BBF9D10C8009}" name="Source">
       <FILE id="pVA9FF" name="SimpleEQ.cpp" compile="1" resource="0" file="Source/SimpleEQ.cpp"/>
